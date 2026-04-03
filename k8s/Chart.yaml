@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_EHR
+name: alice-ehr
 description: ALICE EHR
 type: application
 version: 0.1.0
